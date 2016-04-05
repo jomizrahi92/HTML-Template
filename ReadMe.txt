@@ -1,0 +1,1 @@
+This is a a base of all HTML for canvas theme.
